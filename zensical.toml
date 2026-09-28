@@ -6,15 +6,15 @@ nav = [
     { "Startseite" = "index.md" },
 
     { "Deutsch" = [
-        { "Index" = "DEUTSCH/index.md" }
+        { "Index" = "Mitschrift/DEUTSCH/index.md" }
     ]},
 
     { "SYP" = [
-        { "Index" = "SYP/index.md" },
-        { "Grundbegriffe" = "SYP/Grundbegriffe.md"}
+        { "Index" = "Mitschrift/SYP/index.md" },
+        { "Grundbegriffe" = "Mitschrift/SYP/Grundbegriffe.md"}
     ]},
 
     { "POSE" = [
-        { "Index" = "POSE/index.md" }
+        { "Index" = "Mitschrift/POSE/index.md" }
     ]}
 ]
