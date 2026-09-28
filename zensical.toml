@@ -1,6 +1,6 @@
 [project]
 site_name = "Class Notes 3AHIF 26/27"
-site_url = "https://KooroshHassaniHTL.github.io/3ahif-notes/"
+site_url = "https://KooroshHassaniHTL.github.io/Notes-2627/"
 
 nav = [
     { "Startseite" = "index.md" },
