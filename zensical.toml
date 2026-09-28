@@ -1,0 +1,20 @@
+[project]
+site_name = "Class Notes 3AHIF 26/27"
+site_url = "https://KooroshHassaniHTL.github.io/3ahif-notes/"
+
+nav = [
+    { "Startseite" = "index.md" },
+
+    { "Deutsch" = [
+        { "Index" = "DEUTSCH/index.md" }
+    ]},
+
+    { "SYP" = [
+        { "Index" = "SYP/index.md" },
+        { "Grundbegriffe" = "SYP/Grundbegriffe.md"}
+    ]},
+
+    { "POSE" = [
+        { "Index" = "POSE/index.md" }
+    ]}
+]
