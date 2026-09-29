@@ -6,15 +6,23 @@ nav = [
     { "Startseite" = "index.md" },
 
     { "Deutsch" = [
-        { "Index" = "Mitschrift/DEUTSCH/index.md" }
+        { "Index" = "Mitschrift/DEUTSCH/index.md" },
+        { "Konjunktiv" = "Mitschrift/DEUTSCH/konjunktiv.md" }
     ]},
 
     { "SYP" = [
         { "Index" = "Mitschrift/SYP/index.md" },
-        { "Grundbegriffe" = "Mitschrift/SYP/Grundbegriffe.md"}
+        { "Grundbegriffe" = "Mitschrift/SYP/grundbegriffe.md"}
     ]},
 
     { "POSE" = [
-        { "Index" = "Mitschrift/POSE/index.md" }
+        { "Index" = "Mitschrift/POSE/index.md" },
+        { "Comparable" = "Mitschrift/POSE/comparable.md"},
+        { "Equals" = "Mitschrift/POSE/equals.md"}
+    ]},
+
+    { "DBI" = [
+        { "Index" = "Mitschrift/DBI/index.md" },
+        { "Grundbegriffe" = "Mitschrift/DBI/grundbegriffe.md"}
     ]}
 ]

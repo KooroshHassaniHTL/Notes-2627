@@ -4,9 +4,10 @@ Zentrale Sammlung unserer Unterlagen und Mitschriften.
 
 ## Fächer
 
-- [Deutsch](DEUTSCH/index.md)
-- [Programmieren](POSE/index.md)
-- [Syp](SYP/index.md)
+- [Deutsch](Mitschrift/DEUTSCH/index.md)
+- [Programmieren](Mitschrift/POSE/index.md)
+- [Syp](Mitschrift/SYP/index.md)
+- [Datenbanken](Mitschrift/DBI/index.md)
 
 ## Prüfungen
 
