@@ -24,5 +24,10 @@ nav = [
     { "DBI" = [
         { "Index" = "Mitschrift/DBI/index.md" },
         { "Grundbegriffe" = "Mitschrift/DBI/grundbegriffe.md"}
+    ]},
+
+    { "GS" = [
+        { "Index" = "Mitschrift/GS/index.md" },
+        { "Industrialisierung" = "Mitschrift/GS/industrialisierung.md"}
     ]}
 ]

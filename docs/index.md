@@ -8,6 +8,7 @@ Zentrale Sammlung unserer Unterlagen und Mitschriften.
 - [Programmieren](Mitschrift/POSE/index.md)
 - [Syp](Mitschrift/SYP/index.md)
 - [Datenbanken](Mitschrift/DBI/index.md)
+- [Geschichte](Mitschrift/GS/index.md)
 
 ## Prüfungen
 
