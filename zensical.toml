@@ -29,5 +29,10 @@ nav = [
     { "GS" = [
         { "Index" = "Mitschrift/GS/index.md" },
         { "Industrialisierung" = "Mitschrift/GS/industrialisierung.md"}
+    ]},
+
+    { "NSCS" = [
+        { "Index" = "Mitschrift/NSCS/index.md" },
+        { "Subnetting" = "Mitschrift/NSCS/subnetting.md"}
     ]}
 ]

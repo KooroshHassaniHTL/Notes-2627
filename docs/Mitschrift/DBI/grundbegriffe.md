@@ -2,7 +2,7 @@
 
 ## 1. Datenbankmodelle
 
-### 1.1 Hierarchisches Datenbankmodell (1960er)
+### 1.1 Hierarchisches Datenbankmodell (1960er) [VERALTET]
 
 - **Datenstruktur:** Baumstruktur mit Eltern- und Kindelementen (Parent-Child).
 - **Verknüpfung:** Jedes Kind hat genau ein Elternteil. Beziehungen sind 1:n.
@@ -10,7 +10,7 @@
 - **Nachteile:** Unflexibel, m:n-Beziehungen nur mit Redundanzen möglich.
 - **Beispiele:** IBM IMS, Dateisysteme.
 
-### 1.2 Netzwerkmodell (späte 1960er)
+### 1.2 Netzwerkmodell (späte 1960er) [VERALTET]
 
 - **Datenstruktur:** Netzwerk aus Datensätzen (Records).
 - **Verknüpfung:** Ein Datensatz kann mehrere übergeordnete Datensätze haben. m:n-Beziehungen sind möglich.
@@ -18,7 +18,7 @@
 - **Nachteile:** Komplexe Struktur, Verknüpfungen über Zeiger (Pointer), aufwendige Änderungen.
 - **Beispiele:** UDS, IDMS.
 
-### 1.3 Relationales Datenbankmodell (1970er)
+### 1.3 Relationales Datenbankmodell (1970er) [AKTUELL]
 
 - **Datenstruktur:** Tabellen mit Zeilen (Tupeln) und Spalten (Attributen).
 - **Verknüpfung:** Primär- und Fremdschlüssel verbinden Tabellen.
